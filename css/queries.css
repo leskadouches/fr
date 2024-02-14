@@ -614,6 +614,22 @@
 }
 
 @media screen and (max-width: 320px) {
+  .page-title .title {
+    max-width: 290px;
+  }
+
+  .title-custom {
+    max-width: 280px;
+  }
+
+  .titles {
+    max-width: 220px;
+  }
+
+  .square {
+    max-width: 280px;
+  }
+
   .photo-container {
     margin-top: 90px;
   }
@@ -643,7 +659,7 @@
   }
 
   .front .front-img {
-    max-width: 320px;
+    max-width: 290px;
     max-height: 400px;
   }
 
